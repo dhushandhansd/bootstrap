@@ -40,3 +40,12 @@ body {
 .navbar-dark {
     background-color: #512dab;
 }
+
+.row-changer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.button-top {
+    padding: 20px 0px;
+}
